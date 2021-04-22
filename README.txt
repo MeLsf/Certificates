@@ -7,4 +7,6 @@ Tamerlan Belgibaev
 
 Netacad CTF 
 
+Tamerlan Belgibaev.pdf
+
 ##############################################################
