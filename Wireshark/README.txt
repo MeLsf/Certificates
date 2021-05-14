@@ -1,17 +1,8 @@
-HCIA R&S
-https://e.huawei.com/en/talent/#/cert/certificate-verification
-01010010180843053901215
-Tamerlan Belgibaev
+PluralSight.com WCNA Path
+https://app.pluralsight.com/paths/skill/analyzing-network-traffic-with-wireshark
 
-##############################################################
+1) Getting Started with Wireshark
+Getting Started with Wireshark.pdf
 
-Netacad CTF 
-Tamerlan Belgibaev.pdf
-
-##############################################################
-
-Learning the Essentials of CentOS Enterprise Linux 7 Administration
-Pluralsight.com
-certificate.pdf
-
-###############################################################
+2) Analyzing Network Protocols with Wireshark
+Analyzing Network Protocols with Wireshark.pdf
