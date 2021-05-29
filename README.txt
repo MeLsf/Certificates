@@ -7,6 +7,15 @@ Tamerlan Belgibaev
 
 ##############################################################
 
+Scheduled for June 15
+
+HCIA Security
+https://e.huawei.com/en/talent/#/cert/certificate-verification
+id: xxxxxxxxxxxxxxxxxxxxxxx
+Tamerlan Belgibaev
+
+##############################################################
+
 Pluralsight.com RHCSA Path
 https://app.pluralsight.com/paths/certificate/red-hat-certified-system-administrator-rhcsa
 
